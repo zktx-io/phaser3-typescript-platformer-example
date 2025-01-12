@@ -3,7 +3,7 @@ name: Deploy Walrus Site using Walrus Sites GA
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   deploy:
